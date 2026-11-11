@@ -55,7 +55,7 @@ WhatsApp-Chat-Analyser/
 ### 1. Clone the Repository
 
 ``` bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone [(https://whatsapp-chat-analyser-8flyappbc9yefputmbe5e3j.streamlit.app/)]
 ```
 
 ### 2. Navigate to the Project Directory
