@@ -123,6 +123,31 @@ deployments.
 -   Advanced text and sentiment analysis.
 -   Improved user interface and analytics.
 
+
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/Home.png)
+
+### Statistics
+![Statistics](screenshots/Top_Statistics.png)
+
+### Activity Analysis
+![Activity Analysis](screenshots/Activity_Map.png)
+
+### WordCloud
+![WordCloud](screenshots/WordCloud.png)
+
+### Heatmap
+![Heatmap](screenshots/Heatmap.png)
+
+### Emoji Analysis
+![Emoji Analysis](screenshots/Emoji_Analysis.png)
+
+### Common Words
+![Common Words](screenshots/Common_Words.png)
+
+
 ## 👨‍💻 Author
 
 **Viraj Satale**
